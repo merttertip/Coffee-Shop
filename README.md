@@ -4,7 +4,7 @@
     Bu proje göze hitap eden estetik bir kahve dükkanı web sitesi tasarımıdır. Zarif dizaynıyla dikkatleri çekmektedir.
 </p>
 
-    ![demo video](./screenshots/Screen%20Recording%202025-11-18%20at%2003.28.31.88%20PM.gif)
+    ![demo video](./screenshots/coffee-shop.gif)
 
 <hr>
 
